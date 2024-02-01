@@ -7,6 +7,6 @@ Este site foi criado seguindo o tutorial do evento "Semana do zero ao programado
 - JS
 
 ## O que aprendi
-Noções básicas de HTML, CSS, JS, VScode, GitHub.
+Noções básicas de HTML, CSS, JS, VScode e GitHub.
 
 [<img src="./src/imagens/img-site.gif" alt="gif da tela inicial do projeto">](https://lucasjcfreire.github.io/projeto-gta/)
